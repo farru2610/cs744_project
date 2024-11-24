@@ -1,0 +1,96 @@
+Starting performance monitoring...
+5 tasks completed successfully.
+Time Taken: .170144800 seconds
+Client Throughput: 29.38 requests per second
+Starting performance monitoring...
+10 tasks completed successfully.
+Time Taken: .213127900 seconds
+Client Throughput: 46.92 requests per second
+Starting performance monitoring...
+20 tasks completed successfully.
+Time Taken: .395402900 seconds
+Client Throughput: 50.58 requests per second
+Starting performance monitoring...
+50 tasks completed successfully.
+Time Taken: 1.448917200 seconds
+Client Throughput: 34.50 requests per second
+Starting performance monitoring...
+100 tasks completed successfully.
+Time Taken: 2.289213800 seconds
+Client Throughput: 43.68 requests per second
+Starting performance monitoring...
+500 tasks completed successfully.
+Time Taken: 12.303350900 seconds
+Client Throughput: 39.01 requests per second
+Starting performance monitoring...
+1000 tasks completed successfully.
+Time Taken: 19.414480400 seconds
+Client Throughput: 50.37 requests per second
+Starting performance monitoring...
+2000 tasks completed successfully.
+Time Taken: 35.505052100 seconds
+Client Throughput: 53.48 requests per second
+Starting performance monitoring...
+5 tasks completed successfully.
+Time Taken: .133001900 seconds
+Client Throughput: 37.59 requests per second
+Starting performance monitoring...
+10 tasks completed successfully.
+Time Taken: .329008000 seconds
+Client Throughput: 30.39 requests per second
+Starting performance monitoring...
+20 tasks completed successfully.
+Time Taken: .757120300 seconds
+Client Throughput: 26.41 requests per second
+Starting performance monitoring...
+50 tasks completed successfully.
+Time Taken: 1.203189500 seconds
+Client Throughput: 41.55 requests per second
+Starting performance monitoring...
+100 tasks completed successfully.
+Time Taken: 2.309939100 seconds
+Client Throughput: 43.29 requests per second
+Starting performance monitoring...
+500 tasks completed successfully.
+Time Taken: 12.644495400 seconds
+Client Throughput: 37.40 requests per second
+Starting performance monitoring...
+1000 tasks completed successfully.
+Time Taken: 20.048672700 seconds
+Client Throughput: 47.33 requests per second
+Starting performance monitoring...
+2000 tasks completed successfully.
+Time Taken: 35.990145300 seconds
+Client Throughput: 52.23 requests per second
+Starting performance monitoring...
+5 tasks completed successfully.
+Time Taken: .141181100 seconds
+Client Throughput: 35.41 requests per second
+Starting performance monitoring...
+10 tasks completed successfully.
+Time Taken: .204460700 seconds
+Client Throughput: 48.90 requests per second
+Starting performance monitoring...
+20 tasks completed successfully.
+Time Taken: .409740900 seconds
+Client Throughput: 48.81 requests per second
+Starting performance monitoring...
+50 tasks completed successfully.
+Time Taken: 1.029037700 seconds
+Client Throughput: 48.58 requests per second
+Starting performance monitoring...
+100 tasks completed successfully.
+Time Taken: 2.217495700 seconds
+Client Throughput: 45.09 requests per second
+Starting performance monitoring...
+500 tasks completed successfully.
+Time Taken: 11.876207100 seconds
+Client Throughput: 40.92 requests per second
+Starting performance monitoring...
+1000 tasks completed successfully.
+Time Taken: 21.767767000 seconds
+Client Throughput: 43.55 requests per second
+Starting performance monitoring...
+2000 tasks completed successfully.
+Time Taken: 38.345496900 seconds
+Client Throughput: 48.74 requests per second
