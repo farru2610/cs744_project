@@ -1,6 +1,6 @@
 # Distributed Task Scheduling System
 
-This project implements a distributed task scheduling system for computing factorials, designed as part of the "Design and Engineering of Computing Services" course. The system uses a client-server-worker architecture with TCP sockets, `epoll` for scalable I/O, and multithreading for concurrent task processing.
+This project implements a distributed task scheduling system for computing tasks (e.g: factorials for now), designed as part of the "Design and Engineering of Computing Services" course. The system uses a client-server architecture with TCP sockets, `epoll` for scalable I/O, and multithreading for concurrent task processing.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -9,8 +9,6 @@ This project implements a distributed task scheduling system for computing facto
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Performance Monitoring](#performance-monitoring)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
 
