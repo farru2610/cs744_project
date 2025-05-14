@@ -90,21 +90,6 @@ The `performance.sh` script measures:
 
 Results are logged to `server_performance.log`, and client outputs are saved in `client_output.log`.
 
-## Limitations
-- **Factorial Overflow**: Limited to inputs ≤ 20 due to `long long` overflow (max ≈ 9.2 × 10^18).
-- **Hardcoded Configuration**: Port (8080), max workers (10), and thread pool size (4) are fixed.
-- **Single Operation**: Only supports factorial computation.
-- **Error Handling**: Limited handling for invalid inputs or worker failures.
-- **Security**: No authentication or encryption, unsuitable for production.
-
-## Future Improvements
-- Support larger factorials using a large-number arithmetic library (e.g., GMP).
-- Add configurable parameters via a config file or command-line arguments.
-- Implement multiple task types (e.g., Fibonacci, prime factorization).
-- Enhance error handling for invalid inputs and network failures.
-- Add unit and integration tests using a framework like Check.
-- Implement authentication and TLS for secure communication.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
